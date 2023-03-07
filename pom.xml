@@ -208,7 +208,6 @@
         </dependencies>
       </plugin>
     </plugins>
-      <finalname>SpringPetClinic</finalname>
   </build>
 
   <!-- Apache 2 license -->
